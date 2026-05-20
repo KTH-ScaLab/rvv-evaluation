@@ -1,3 +1,0 @@
-black~=22.3.0
-flynt~=0.60
-pytest
