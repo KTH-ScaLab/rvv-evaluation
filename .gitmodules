@@ -1,0 +1,3 @@
+[submodule "apps_bench/qsim_rvv"]
+	path = apps_bench/qsim_rvv
+	url = git@github.com:KTH-ScaLab/qsim_rvv.git

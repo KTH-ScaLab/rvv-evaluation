@@ -1,0 +1,752 @@
+../lib/parfor.h:55:33: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:84:33: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:55:33: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_heap.h:146:7: optimized: basic block part vectorized using 8 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized: loop vectorized using 16 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized:  loop versioned for vectorization to enhance alignment
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algo.h:1764:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algo.h:1783:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized:  loop versioned for vectorization because of possible aliasing
+../lib/fuser_mqubit.h:120:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:120:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using 8 byte vectors
+../lib/fuser.h:31:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:112:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser.h:31:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:112:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:112:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+../lib/parfor.h:60:30: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:60:30: optimized:  loop versioned for vectorization because of possible aliasing
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+qsim_von_neumann.cc:37:8: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+../lib/gates_qsim.h:281:49: optimized: basic block part vectorized using 8 byte vectors
+../lib/matrix.h:283:26: optimized: loop vectorized using variable length vectors
+../lib/circuit_qsim_parser.h:360:21: optimized: basic block part vectorized using 16 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized: loop vectorized using 16 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized:  loop versioned for vectorization to enhance alignment
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/basic_ios.h:477:2: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/basic_ios.h:477:2: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:88:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:88:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:88:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:120:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/matrix.h:195:26: optimized: loop vectorized using variable length vectors
+../lib/matrix.h:79:30: optimized: loop vectorized using variable length vectors
+../lib/matrix.h:79:30: optimized: loop vectorized using variable length vectors
+../lib/fuser.h:187:35: optimized: loop vectorized using 16 byte vectors
+../lib/matrix.h:57:26: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:121:13: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/random.tcc:412:42: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/random.tcc:404:32: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:92:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:610:3: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:559:3: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:294:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:875:15: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1167:18: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1167:18: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser.h:155:3: optimized: basic block part vectorized using 8 byte vectors
+../lib/parfor.h:60:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:60:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+qsim_von_neumann.cc:151:24: optimized: basic block part vectorized using 8 byte vectors
+../lib/parfor.h:55:33: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:84:33: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:55:33: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_heap.h:146:7: optimized: basic block part vectorized using 8 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized: loop vectorized using 16 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized:  loop versioned for vectorization to enhance alignment
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algo.h:1764:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algo.h:1783:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized:  loop versioned for vectorization because of possible aliasing
+../lib/fuser_mqubit.h:120:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:120:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using 8 byte vectors
+../lib/fuser.h:31:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:112:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser.h:31:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:112:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:112:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+../lib/parfor.h:60:30: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:60:30: optimized:  loop versioned for vectorization because of possible aliasing
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+qsim_von_neumann.cc:37:8: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+../lib/gates_qsim.h:281:49: optimized: basic block part vectorized using 8 byte vectors
+../lib/matrix.h:283:26: optimized: loop vectorized using variable length vectors
+../lib/circuit_qsim_parser.h:360:21: optimized: basic block part vectorized using 16 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized: loop vectorized using 16 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized:  loop versioned for vectorization to enhance alignment
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/basic_ios.h:477:2: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/basic_ios.h:477:2: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:88:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:88:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:88:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:120:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/matrix.h:195:26: optimized: loop vectorized using variable length vectors
+../lib/matrix.h:79:30: optimized: loop vectorized using variable length vectors
+../lib/matrix.h:79:30: optimized: loop vectorized using variable length vectors
+../lib/fuser.h:187:35: optimized: loop vectorized using 16 byte vectors
+../lib/matrix.h:57:26: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:121:13: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/random.tcc:412:42: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/random.tcc:404:32: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:92:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:610:3: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:559:3: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:294:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:875:15: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1167:18: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1167:18: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser.h:155:3: optimized: basic block part vectorized using 8 byte vectors
+../lib/parfor.h:60:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:60:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+qsim_von_neumann.cc:151:24: optimized: basic block part vectorized using 8 byte vectors
+../lib/parfor.h:55:33: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:84:33: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:55:33: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_heap.h:146:7: optimized: basic block part vectorized using 8 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized: loop vectorized using 16 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized:  loop versioned for vectorization to enhance alignment
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algo.h:1764:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algo.h:1783:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized:  loop versioned for vectorization because of possible aliasing
+../lib/fuser_mqubit.h:120:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:120:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using 8 byte vectors
+../lib/fuser.h:31:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:112:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser.h:31:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:112:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:112:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+../lib/parfor.h:60:30: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:60:30: optimized:  loop versioned for vectorization because of possible aliasing
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+qsim_von_neumann.cc:37:8: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+../lib/gates_qsim.h:281:49: optimized: basic block part vectorized using 8 byte vectors
+../lib/matrix.h:283:26: optimized: loop vectorized using variable length vectors
+../lib/circuit_qsim_parser.h:360:21: optimized: basic block part vectorized using 16 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized: loop vectorized using 16 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized:  loop versioned for vectorization to enhance alignment
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/basic_ios.h:477:2: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/basic_ios.h:477:2: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:88:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:88:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:88:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:120:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/matrix.h:195:26: optimized: loop vectorized using variable length vectors
+../lib/matrix.h:79:30: optimized: loop vectorized using variable length vectors
+../lib/matrix.h:79:30: optimized: loop vectorized using variable length vectors
+../lib/fuser.h:187:35: optimized: loop vectorized using 16 byte vectors
+../lib/matrix.h:57:26: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:121:13: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/random.tcc:412:42: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/random.tcc:404:32: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:92:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:610:3: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:559:3: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:294:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:875:15: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1167:18: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1167:18: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser.h:155:3: optimized: basic block part vectorized using 8 byte vectors
+../lib/parfor.h:60:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:60:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+qsim_von_neumann.cc:151:24: optimized: basic block part vectorized using 8 byte vectors
+../lib/parfor.h:55:33: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:84:33: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:55:33: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_heap.h:146:7: optimized: basic block part vectorized using 8 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized: loop vectorized using 16 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized:  loop versioned for vectorization to enhance alignment
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algo.h:1764:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algo.h:1783:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/move.h:237:7: optimized: basic block part vectorized using 8 byte vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:188:30: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized:  loop versioned for vectorization because of possible aliasing
+../lib/fuser_mqubit.h:120:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:120:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using 8 byte vectors
+../lib/fuser.h:31:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:112:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser.h:31:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:112:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:112:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+../lib/parfor.h:60:30: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:60:30: optimized:  loop versioned for vectorization because of possible aliasing
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:201:32: optimized: loop vectorized using variable length vectors
+../lib/simulator.h:58:30: optimized: loop vectorized using variable length vectors
+qsim_von_neumann.cc:37:8: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+../lib/gates_qsim.h:281:49: optimized: basic block part vectorized using 8 byte vectors
+../lib/matrix.h:283:26: optimized: loop vectorized using variable length vectors
+../lib/circuit_qsim_parser.h:360:21: optimized: basic block part vectorized using 16 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized: loop vectorized using 16 byte vectors
+../lib/circuit_qsim_parser.h:240:31: optimized:  loop versioned for vectorization to enhance alignment
+../lib/gate.h:125:8: optimized: basic block part vectorized using 2 byte vectors
+../lib/gate.h:125:8: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/basic_ios.h:477:2: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/basic_ios.h:477:2: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:88:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:924:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:144:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:469:7: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:88:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:88:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:1310:22: optimized:  loop versioned for vectorization because of possible aliasing
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:120:10: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/matrix.h:195:26: optimized: loop vectorized using variable length vectors
+../lib/matrix.h:79:30: optimized: loop vectorized using variable length vectors
+../lib/matrix.h:79:30: optimized: loop vectorized using variable length vectors
+../lib/fuser.h:187:35: optimized: loop vectorized using 16 byte vectors
+../lib/matrix.h:57:26: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_algobase.h:2095:32: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:121:13: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/random.tcc:412:42: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/random.tcc:404:32: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:92:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:610:3: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:559:3: optimized: basic block part vectorized using 8 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser_mqubit.h:294:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_uninitialized.h:875:15: optimized: loop vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:29: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1167:18: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1167:18: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/vector.tcc:123:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:1434:21: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:114:17: optimized: basic block part vectorized using 16 byte vectors
+../lib/fuser.h:155:3: optimized: basic block part vectorized using 8 byte vectors
+../lib/parfor.h:60:30: optimized: loop vectorized using variable length vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using 16 byte vectors
+../lib/simulator_basic.h:266:34: optimized: loop vectorized using variable length vectors
+../lib/parfor.h:60:30: optimized: loop vectorized using variable length vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+/scratch/ruimins/riscv_gnu_toolchain/install_glibc2.35/riscv64-unknown-linux-gnu/include/c++/15.1.0/bits/stl_vector.h:106:4: optimized: basic block part vectorized using 16 byte vectors
+qsim_von_neumann.cc:151:24: optimized: basic block part vectorized using 8 byte vectors

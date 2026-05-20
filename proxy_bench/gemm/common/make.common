@@ -1,0 +1,58 @@
+CFLAGS=$(OPTFLAGS) $(PROG_ENV)
+INCLUDEPATHSPLUS=$(INCLUDEPATHS) -I./include
+COMMON=./common
+ 
+usage:
+	@echo "Usage: type \"make $(PROGRAM)\" to build executable"
+	@echo "            \"make clean\" to remove objects and executables"
+	@echo -e $(OPTIONSSTRING)
+
+ 
+ifeq ($(PROG_ENV),-DCHARMXX)
+$(PROGRAM).C: $(PROGRAM).decl.h
+endif 
+
+$(PROGRAM):$(OBJS)
+	$(CLINKER) -o $(PROGRAM) $(LIBPATHS)  $(CFLAGS) $(OBJS) $(EXTOBJS) $(LIBS)
+
+
+ifeq ($(PROG_ENV),-DCHARMXX)
+$(PROGRAM).decl.h: $(PROGRAM).ci
+		   $(CITRANSLATOR) $(PROGRAM).ci
+endif
+
+timestep.o: timestep.c
+	$(CCOMPILER) $(CFLAGS) $(TUNEFLAGS) $(INCLUDEPATHSPLUS) -c $<
+
+wtime.o:$(COMMON)/wtime.c
+	$(CCOMPILER) $(CFLAGS) $(TUNEFLAGS) $(INCLUDEPATHSPLUS) -c $<
+ 
+random_draw.o:$(COMMON)/random_draw.c
+	$(CCOMPILER) $(CFLAGS) $(TUNEFLAGS) $(INCLUDEPATHSPLUS) -c $<
+
+MPI_bail_out.o:$(COMMON)/MPI_bail_out.c
+	$(CCOMPILER) $(CFLAGS) $(TUNEFLAGS) $(INCLUDEPATHSPLUS) -c $<
+
+FENIX_bail_out.o:$(COMMON)/FENIX_bail_out.c
+	$(CCOMPILER) $(CFLAGS) $(TUNEFLAGS) $(INCLUDEPATHSPLUS) -c $<
+ 
+SHMEM_bail_out.o:$(COMMON)/SHMEM_bail_out.c
+	$(CCOMPILER) $(CFLAGS) $(TUNEFLAGS) $(INCLUDEPATHSPLUS) -c $<
+ 
+OPENMP_bail_out.o:$(COMMON)/OPENMP_bail_out.c
+	$(CCOMPILER) $(CFLAGS) $(TUNEFLAGS) $(INCLUDEPATHSPLUS) -c $<
+ 
+.c.o:
+	$(CCOMPILER) $(CFLAGS) $(TUNEFLAGS) $(INCLUDEPATHSPLUS) -c $<
+ 
+.cpp.o:
+	$(CCOMPILER) $(CFLAGS) $(TUNEFLAGS) $(INCLUDEPATHSPLUS) -c $<
+ 
+.upc.o:
+	$(CCOMPILER) $(CFLAGS) $(TUNEFLAGS) $(INCLUDEPATHSPLUS) -c $<
+ 
+.C.o: $(CHARMDEP)
+	$(CCOMPILER) $(CFLAGS) $(TUNEFLAGS) $(INCLUDEPATHSPLUS) -c $<
+ 
+clean:
+	rm -f $(OBJS)  $(PROGRAM) *.optrpt *~ charmrun stats.json $(PROGRAM).decl.h $(PROGRAM).def.h
