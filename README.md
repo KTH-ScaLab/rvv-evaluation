@@ -1,4 +1,5 @@
-# RVV-Eval
+# rvv-evaluation
+
 
 RVV-Eval is a benchmark suite for studying performance portability on RISC-V Vector (RVV) processors. It contains three benchmark groups:
 
