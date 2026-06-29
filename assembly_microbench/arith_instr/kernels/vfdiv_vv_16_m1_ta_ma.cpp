@@ -1,6 +1,6 @@
 
-#include <stdio.h>
 #include <riscv_vector.h>
+#include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
 #include <stdio.h>
@@ -90,6 +90,11 @@ free(mem);
 
 void kernel(unsigned long iters)
 {
+    int avl = 1;
+    
+    asm volatile ("vsetvli %0, %1, e16, m1, ta, ma": "=r"(avl): "r"(lanes): "vl", "vtype");
+    printf("The active vector length of RVV is %d\n", avl);
+        
     for (unsigned long i=0; i<iters; ++i) {
         asm volatile (
         "vfdiv.vv v0, v8, v16 \n\t"
